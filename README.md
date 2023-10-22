@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Automation Testing and JAVA
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: on Linkedin
-- I am also actively looking for a job/internship.
+- I am also actively looking for a job/Internship.
 
 <!---
 IgorStojcheski/IgorStojcheski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
